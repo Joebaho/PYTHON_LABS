@@ -1,4 +1,4 @@
-# This Program will take a distance in Km you did and convert it in miles the feet and inches.
+# This Program will take a distance in km you did and convert it in miles the feet and inches.
 print('Code to convert km to miles, to feet, to meter and then to inches.')
 print("Enter information needed")
 name= input('What is your name:  ')
@@ -11,7 +11,7 @@ d= 1000
 top_level = "#" * 65
 #Conversion
 dist_mi= float(dist_km) / a
-dist_ft= float(dist_mi) * b
+dist_ft= float(dist_km) * b
 dist_in= float(dist_km) * c
 dist_me= float(dist_km) * d
 #Result
