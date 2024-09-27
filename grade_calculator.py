@@ -1,4 +1,16 @@
-#Program for grade calculator
+'''
+PYTHON LAB: grade_calculator.py
+
+Write a program that will ask a student for their grades in 5 subjects.
+Calculate your average grade and print grade from A-E.
+A>90
+B>80
+C>70
+D>60
+E===Failed
+
+Display on the screen:  Provide the screenshot and github link.  Submit your homework in your github account as well.  Create a folder in Python-codes
+'''
 name = str(input("Please provide the student name:\t"))
 level = str(input("Please enter the student class: \t"))
 grade1 = float(input("Please enter your grade score for English:\t"))

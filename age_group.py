@@ -1,3 +1,18 @@
+'''
+PYTHON LAB: age_group_categorization.py
+
+Prompt the user to enter their age as an integer.
+Based on the input, categorize the person into one of the following life stages:
+Infant: 0-1 year
+Toddler: 2-3 years
+Child: 4-12 years
+Teenager: 13-19
+Adult: 20-64 years
+Senior: 65 years and older
+Display the appropriate life stage
+If the user enters a negative number or a non realistic number (more than 150) display an "invalid age message'''
+
+
 # Prompt the user to enter their age as an integer
 age = int(input("Please enter your age: "))
 C1 ="Infant"

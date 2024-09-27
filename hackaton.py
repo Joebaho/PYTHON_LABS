@@ -1,4 +1,10 @@
+'''
+PYTHON LAB:hackaton.py
 
+Write a program that will user the string method to display the both given message in differents way.
+Display on the screen: mDisplay the message with the required method '''
+
+#given messages
 msg1 = "welcome to aws python 101 class: strings"
 msg2 = "The instructor here is Claudio"
 

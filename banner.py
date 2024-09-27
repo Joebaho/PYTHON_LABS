@@ -1,4 +1,8 @@
-#This Code we will be using variables and string interpolation 
+'''
+PYTHON LAB:banner.py
+
+Write a program that will write the given banner in a rectangle made with the pounds sign(#)
+Display on the screen:  The result '''
 
 #Declaration of variables
 top_level = "#" * 65

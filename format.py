@@ -1,7 +1,8 @@
-#This Code we will be using variables and string format 
+'''
+PYTHON LAB:  Format Method
+This Code we will be using variables and string format to form and use the two format metod to print message'''
 
-#lab1
-#Declaration of Variables
+#LAB1 : Declaration of Variables
 first_name = "Joseph"
 age = 40
 favorite_color = "red"
@@ -10,9 +11,8 @@ sentence = "Hello, my name is {}. I am {} years old, and faorite color is {}. " 
 # Print the sentence
 print(sentence)
 
-#lab2 
 
-#Declaration of variables
+#LAB2: Declaration of variables
 city = "Hollister"
 temperature = 62
 weather = "temperature"

@@ -1,4 +1,8 @@
-#This project is to define the use of Variables
+'''
+PYTHON LAB:fun.py
+
+Write a program that will use all types of variables( string, float , interger and bolean)
+Display on the screen: a message using those variables.'''
 
 #Define a string variable
 city= "Hollister"

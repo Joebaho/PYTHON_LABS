@@ -1,3 +1,11 @@
+'''
+PYTHON LAB: operator.py
+
+Write a program that will ask a user to provide three numbers. We will realise all arthmetic operation 
+Calculate addition, substraction, Multiplication, division moduls, exponent and square-foot.
+
+Display on the screen:  the result of each operation
+'''
 import math
 #enter value of number 
 a= input('What is the value of a:  ')

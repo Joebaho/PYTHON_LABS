@@ -1,5 +1,10 @@
-# Program to convert weight from pouns to Kilogram
+'''
+PYTHON LAB:body_weight_convertor.py
 
+Write a program that will ask for a user to enter his/her body weight in pounds (lbs) and convert it to kilogram (kg).
+Display on the screen: your body weight is weight in lbs, and the equivalent kgs is weight kg.  Thank you!  only display three digit decimal e.g:10.234'''
+
+# Program to convert weight from pouns to Kilogram
 print('Welcome to the weight program convertor.Here you can convert your weight from pounds to kilogram or vice versa')
 print("Enter information needed")
 # input value
@@ -25,5 +30,12 @@ elif unit==x2:
    print(info, weight_lbs_result)
 else:
     print("Invalid unit entered. Please enter either 'lbs' or 'kg'.")
+
+# Simple way without Condition
+#weight_in_lbs = float(input("Enter your weight in pounds: \n"))
+#weight_in_kg = weight_in_lbs * 0.453592
+
+# This will round the output to 2 decimal places.
+#print(f"Your weight in kilograms is: {weight_in_kg: .2f}")
 
 

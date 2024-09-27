@@ -1,3 +1,10 @@
+'''
+PYTHON LAB: equation_2_degree.py
+
+Write a program that will solve the equation of first degree ax² + bx + c = 0
+Display on the screen:  the different result existing or not'''
+
+#Solution
 import math
 
 def resolve_equation_second_degree(a, b, c):

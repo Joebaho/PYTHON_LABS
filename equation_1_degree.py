@@ -1,3 +1,10 @@
+'''
+PYTHON LAB: equation_1_degree.py
+
+Write a program that will solve the equation of first degree ax + b = 0
+Display on the screen:  the different result existing or not'''
+
+#Solution
 def resolve_equation_first_degree(a, b):
     if a == 0:
         if b == 0:

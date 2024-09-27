@@ -1,3 +1,10 @@
+'''
+PYTHON LAB:Using f-string
+
+Write a python program that will print an equilateral triangle'''
+
+# First way of doing this 
+#################################################################################
 # This first code will display a equilateral triangle
 # print("           #")
 # print("         #   #")
@@ -11,6 +18,9 @@
 # print(" #####################")
 
 # print(" Here is my first Python Homework. It is a triangle")
+#################################################################################
+
+#Second way
 
 #Declaration of variables
 top_level = "\t" 

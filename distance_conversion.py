@@ -1,3 +1,9 @@
+'''
+PYTHON LAB: distance_conversion.py
+
+Write a program that will ask for a user to enter his/her distance run in Kilometer and convert it to mile (mi), feet(ft), Inches(inc) end meter(m).
+Display on the screen: The distance you made today is dist in km, and the equivalent mile is weight mi.  Thank you!  only display three digit decimal e.g:10.234'''
+
 # This Program will take a distance in km you did and convert it in miles the feet and inches.
 print('Code to convert km to miles, to feet, to meter and then to inches.')
 print("Enter information needed")

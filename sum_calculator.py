@@ -1,4 +1,8 @@
-# Program for summarization of two number
+'''
+PYTHON LAB: sum_calculator.py
+
+Write a program that will ask for two numbers (integer or float) and calculate the sum of those two numbers.
+Display on the screen:  the sum of the number1 and number is: sum.'''
 
 #enter value of number 
 number1= float(input('What is the value of number1:  '))
