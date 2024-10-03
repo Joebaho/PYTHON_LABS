@@ -47,28 +47,36 @@ Your number user_number is even/odd.'''
 ##############################################################################################
 
 # Ask the user for a number
-num = float(input("Please enter a number: "))
+# num = float(input("Please enter a number: "))
 
-# Check if the number is positive, negative, or zero
-if num > 0:
-    pos_neg = "positive"
-elif num < 0:
-    pos_neg = "negative"
-else:
-    pos_neg = "zero"
+# # Check if the number is positive, negative, or zero
+# if num > 0:
+#     pos_neg = "positive"
+# elif num < 0:
+#     pos_neg = "negative"
+# else:
+#     pos_neg = "zero"
 
-# # Check if the number is even or odd (only applies if the number is an integer)
-if num < 1 or num > 100:
-    print(f"Please try again -- you entered {num}")  
-if num.is_integer():
-    if int(num) % 2 == 0:
-        even_odd = "even"
-    else:
-        even_odd = "odd"
-else:
-    even_odd = "not an integer, so can't determine even/odd"
+# # # Check if the number is even or odd (only applies if the number is an integer)
+# if num < 1 or num > 100:
+#     print(f"Please try again -- you entered {num}")  
+# if num.is_integer():
+#     if int(num) % 2 == 0:
+#         even_odd = "even"
+#     else:
+#         even_odd = "odd"
+# else:
+#     even_odd = "not an integer, so can't determine even/odd"
 
-# Output the result
-print(f"The number {num} is {pos_neg} and {even_odd}.")
+# # Output the result
+# print(f"The number {num} is {pos_neg} and {even_odd}.")
     
 #################################################################################################
+num = int(input("Please enter a number between 1 and 100: ")) 
+if (num >= 1 and num <= 100) and (num % 2 == 0):
+    print(f"The number {num} is even.") 
+elif (num >= 1 and num <= 100) and (num % 2 == 1):   
+    print(f"The number {num} is odd.") 
+else:
+    print(f"The number {num} is not an integer include in the range. Please enter a number of the range.")
+###########################################################################    
