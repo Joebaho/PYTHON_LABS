@@ -55,11 +55,11 @@ elif user_language == "French":
     # Look for the word in the keys (English)
     french_result = english_french.get(user_input)
     if french_result:
-        print(f'\nThe French translation of the english word "{user_input.capitalize()}" is: "{french_result.capitalize()}"')
+        print(f'\nThe French translation of the English word "{user_input.capitalize()}" is: "{french_result.capitalize()}"')
     else:
         print(not_in_memory)
 
 else:
-    print("\nSorry, the language option you selected is not available.")
+    print(f'\nSorry, the language {user_language.capitalize()} is not available in my memory.')
 
 
