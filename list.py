@@ -1,9 +1,8 @@
 '''
 PYTHON LAB: list.py
 
-Write a Python program that prints result with all parameters or methods using in a list.
+This program will present all way of using list in python. '''
 
-'''
 friends  = ['John' , 'Michael' , 'Terry' , 'Eric' ,  'Graham' ,  'Joe'] 
 # first print and check of value or position
 print(friends)                       # list all                                                                                                          
