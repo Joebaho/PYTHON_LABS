@@ -57,3 +57,17 @@ my_function(fruits)
 def my_function(x):
   return 5 * x
 print(my_function(3)) 
+
+# function with variables, string concatenation and 
+def greeting(name, color, age, status, number=4, ):
+    #Greets user with 'name' from 'input box' and 'age', if available, default age is used
+    print('Hello '  +  name.capitalize() + ', you are ' + str(age) +'!')
+    print(f'{name.upper()}, you are {age+1} year old man next birthday!')
+    print(f'We hear you like the color {color.lower()} ! ')
+    print ('Your status is ' + status + ' with ' + str(number) + ' kids ')
+
+name = input('Enter your name: ')
+age = input('Enter your age: ')
+color = input('Enter your  favorite color: ')
+status = input('Enter you marital status: ')
+greeting(name, color, int(age), status)
