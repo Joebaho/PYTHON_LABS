@@ -107,3 +107,6 @@ fruits = ("apple", "banana", "cherry")
 new_fruits = fruits * 2
 print(new_fruits)
 
+
+
+
