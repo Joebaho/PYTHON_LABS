@@ -34,7 +34,7 @@ fruits = [
     (10, "GRAPPE")
 ]# Iterate over the list and print each item
 for number, fruit in fruits:
-    print(f"{number} {fruit}")
+    print(f"{number}, {fruit}")
 
 ##################################################################################
     
@@ -43,7 +43,7 @@ numbers = [1, 2, 2, 3, 10, 10]
 fruits = ["CHERRY", "APPLE", "APPLE", "ORANGE", "GRAPPE", "GRAPPE"]
 
 for number, fruit in zip(numbers, fruits):
-    print(str(number) + " " + fruit)
+    print(str(number) + ", " + fruit)
     
 ################################################################################
 

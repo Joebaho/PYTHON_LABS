@@ -1,0 +1,56 @@
+2024-11-14 18:04:08 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-14 18:04:10 - INFO - EC2 instance i-0748d0d81b01778ca launched. Waiting for it to be in running state...
+2024-11-14 18:04:25 - INFO - EC2 instance i-0748d0d81b01778ca is running with Public IP Address: 50.112.19.137
+2024-11-14 18:04:25 - INFO - EC2 instance i-0748d0d81b01778ca is being launched...
+2024-11-14 18:47:09 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-14 18:48:41 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-14 18:51:19 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-14 18:55:44 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-14 19:00:17 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-14 19:00:18 - ERROR - An error occurred while creating instance: 0
+2024-11-14 19:04:25 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-14 19:07:40 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-14 19:07:41 - INFO - EC2 instance i-064b4a75937f2cac9 launched. Waiting for it to be in running state...
+2024-11-14 19:07:41 - ERROR - An error occurred while creating instance i-064b4a75937f2cac9: 0
+2024-11-14 19:11:12 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-14 19:11:14 - INFO - EC2 instance i-022589099f74ecda7 launched. Waiting for it to be in running state...
+2024-11-14 19:11:14 - ERROR - An error occurred while creating instance i-022589099f74ecda7: 0
+2024-11-14 19:12:12 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-14 19:12:14 - INFO - EC2 instance i-09103e61e2f9c0415 launched. Waiting for it to be in running state...
+2024-11-14 19:12:14 - ERROR - An error occurred while creating instance i-09103e61e2f9c0415: 0
+2024-11-14 19:16:00 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-14 19:16:01 - INFO - EC2 instance i-09485beb49ce220bc launched. Waiting for it to be in running state...
+2024-11-14 19:16:01 - ERROR - An error occurred while creating instance i-09485beb49ce220bc: 0
+2024-11-14 19:17:23 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-14 19:17:24 - INFO - EC2 instance i-090cbeeec5be86342 launched. Waiting for it to be in running state...
+2024-11-14 19:17:24 - ERROR - An error occurred while creating instance i-090cbeeec5be86342: 0
+2024-11-14 19:18:05 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-14 19:18:06 - INFO - EC2 instance i-00b2ad4f52a075898 launched. Waiting for it to be in running state...
+2024-11-14 19:18:06 - ERROR - An error occurred while creating instance i-00b2ad4f52a075898: 0
+2024-11-14 19:22:59 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-14 19:23:00 - INFO - EC2 instance i-08e2dece9834dd731 launched. Waiting for it to be in running state...
+2024-11-14 19:23:00 - ERROR - An error occurred while creating instance i-08e2dece9834dd731: 0
+2024-11-14 19:23:56 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-14 19:23:57 - INFO - EC2 instance i-04a325d307b381989 launched. Waiting for it to be in running state...
+2024-11-14 19:23:57 - ERROR - An error occurred while creating instance i-04a325d307b381989: 0
+2024-11-14 19:27:14 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-14 19:27:15 - INFO - EC2 instance i-0aa602246ddf9474d launched. Waiting for it to be in running state...
+2024-11-14 19:27:15 - ERROR - An error occurred while creating instance i-0aa602246ddf9474d: 0
+2024-11-14 19:28:37 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-14 19:28:38 - INFO - EC2 instance i-06618aad5cea9802e launched. Waiting for it to be in running state...
+2024-11-14 19:28:38 - ERROR - An error occurred while creating instance i-06618aad5cea9802e: 0
+2024-11-14 19:37:13 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-14 19:37:14 - INFO - EC2 instance i-076c933954f565ac4 launched. Waiting for it to be in running state...
+2024-11-14 19:37:14 - ERROR - An error occurred while creating instance i-076c933954f565ac4: 0
+2024-11-18 20:56:17 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-18 20:56:22 - INFO - Terminating instance i-0315188e5d75f957d...
+2024-11-18 20:57:08 - INFO - Instance i-0315188e5d75f957d has been terminated.
+2024-11-18 21:43:24 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-18 21:43:25 - INFO - EC2 instance i-07805319084b2e767 launched. Waiting for it to be in running state...
+2024-11-18 21:43:41 - INFO - EC2 instance i-07805319084b2e767 is running with Public IP Address: 35.86.86.13
+2024-11-18 21:43:41 - INFO - EC2 instance i-07805319084b2e767 is being launched...
+2024-11-18 21:52:19 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-18 21:52:25 - INFO - Termination initiated for instance i-07805319084b2e767. Response: {'TerminatingInstances': [{'InstanceId': 'i-07805319084b2e767', 'CurrentState': {'Code': 32, 'Name': 'shutting-down'}, 'PreviousState': {'Code': 16, 'Name': 'running'}}], 'ResponseMetadata': {'RequestId': 'fb79cd0a-57b1-47e8-a766-f722472023d9', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': 'fb79cd0a-57b1-47e8-a766-f722472023d9', 'cache-control': 'no-cache, no-store', 'strict-transport-security': 'max-age=31536000; includeSubDomains', 'content-type': 'text/xml;charset=UTF-8', 'content-length': '426', 'date': 'Tue, 19 Nov 2024 05:52:24 GMT', 'server': 'AmazonEC2'}, 'RetryAttempts': 0}}
+2024-11-18 21:53:41 - INFO - Instance i-07805319084b2e767 has been terminated.
+2024-11-20 21:17:31 - INFO - Terminating instance i-0ea9cce6e0f5e31c5...
+2024-11-20 21:18:32 - INFO - Instance i-0ea9cce6e0f5e31c5 has been terminated.

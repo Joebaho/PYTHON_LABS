@@ -1,0 +1,12 @@
+2024-11-18 19:46:26 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-18 19:46:27 - INFO - EC2 instance with InstanceType t3.micro and Amazon ami ID ami-061dd8b45bc7deb3d is created  
+2024-11-18 19:46:27 - INFO - The ec2 was created successfully
+2024-11-18 19:52:37 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-18 19:52:39 - INFO - EC2 instance with InstanceType t3.micro and Amazon ami ID ami-061dd8b45bc7deb3d is created  
+2024-11-18 19:52:39 - INFO - The ec2 was created successfully
+2024-11-18 20:07:46 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-18 20:07:46 - ERROR - Error creating EC2 instance: An error occurred (InvalidParameterValue) when calling the RunInstances operation: Each network interface requires a device index.
+2024-11-18 20:07:46 - INFO - The ec2 was created successfully
+2024-11-18 20:10:13 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-18 20:10:14 - INFO - EC2 instance with InstanceType t3.micro and Amazon ami ID ami-061dd8b45bc7deb3d is created  
+2024-11-18 20:10:14 - INFO - The ec2 was created successfully

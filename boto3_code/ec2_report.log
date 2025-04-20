@@ -1,0 +1,229 @@
+2024-11-22 00:43:14 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-22 00:43:14 - INFO - generating csv report ec2_report.csv
+2024-11-22 00:43:14 - INFO - uploading report to s3
+2024-11-22 00:43:14 - INFO - Good night folks!!!
+2024-11-22 00:51:46 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-22 00:51:46 - INFO - generating csv report ec2_report.csv
+2024-11-22 00:51:46 - INFO - uploading report to s3
+2024-11-22 00:51:47 - INFO - Good night folks!!!
+2024-11-22 01:29:01 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-22 01:29:02 - INFO - generating csv report ec2_report.csv
+2024-11-22 01:29:02 - INFO - uploading report to s3
+2024-11-22 01:29:02 - INFO - Good night folks!!!
+2024-11-22 01:40:24 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-22 01:40:25 - INFO - generating csv report ec2_report.csv
+2024-11-22 01:40:25 - INFO - uploading report to s3
+2024-11-22 01:40:25 - INFO - Good night folks!!!
+2024-11-22 01:42:46 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-22 01:42:46 - INFO - generating csv report ec2_report.csv
+2024-11-22 01:42:46 - INFO - uploading report to s3
+2024-11-22 01:42:47 - INFO - Good night folks!!!
+2024-11-22 01:51:15 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-22 01:51:15 - INFO - generating csv report ec2_report.csv
+2024-11-22 01:51:15 - INFO - uploading report to s3
+2024-11-22 01:51:16 - INFO - Good night folks!!!
+2024-11-22 21:34:07 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-22 21:34:09 - INFO - generating csv report ec2_report.csv
+2024-11-22 21:36:53 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-22 21:36:54 - INFO - generating csv report ec2_report.csv
+2024-11-22 21:37:45 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-22 21:37:46 - INFO - generating csv report ec2_report.csv
+2024-11-22 21:40:51 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-22 21:40:51 - INFO - generating csv report ec2_report.csv
+2024-11-22 21:56:02 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-22 21:56:03 - INFO - generating csv report ec2_report.csv
+2024-11-22 21:56:03 - INFO - uploading report to s3
+2024-11-22 21:56:04 - INFO - Thank you for using this Code
+2024-11-22 21:56:57 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-22 21:56:58 - INFO - generating csv report ec2_report.csv
+2024-11-22 21:56:58 - INFO - uploading report to s3
+2024-11-22 21:56:58 - INFO - Thank you for using this Code
+2024-11-24 23:42:25 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-24 23:42:26 - INFO - generating csv report ec2_report.csv
+2024-11-24 23:42:26 - INFO - uploading report to s3
+2024-11-24 23:42:26 - INFO - Good night folks!!!
+2024-11-24 23:50:28 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-24 23:50:29 - INFO - generating csv report ec2_report.csv
+2024-11-24 23:50:29 - INFO - uploading report to s3
+2024-11-24 23:50:29 - INFO - Good night folks!!!
+2024-11-24 23:52:50 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-24 23:52:50 - INFO - generating csv report ec2_report.csv
+2024-11-24 23:52:50 - INFO - uploading report to s3
+2024-11-24 23:52:58 - ERROR - An error occurred: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d9443c01a7336-2129dc05fc8sm58335915ad.138 - gsmtp')
+2024-11-24 23:52:58 - INFO - Good night folks!!!
+2024-11-24 23:55:27 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-24 23:55:27 - INFO - generating csv report ec2_report.csv
+2024-11-24 23:55:27 - INFO - uploading report to s3
+2024-11-24 23:55:38 - ERROR - An error occurred: Connection unexpectedly closed
+2024-11-24 23:55:38 - INFO - Good night folks!!!
+2024-11-24 23:56:54 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-24 23:56:55 - INFO - generating csv report ec2_report.csv
+2024-11-24 23:56:55 - INFO - uploading report to s3
+2024-11-24 23:56:56 - ERROR - An error occurred: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d9443c01a7336-2129db8793asm58288345ad.26 - gsmtp')
+2024-11-24 23:56:56 - INFO - Good night folks!!!
+2024-11-24 23:59:34 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-24 23:59:35 - INFO - generating csv report ec2_report.csv
+2024-11-24 23:59:35 - INFO - uploading report to s3
+2024-11-24 23:59:36 - ERROR - An error occurred: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-7fbcbfc0501sm5056343a12.1 - gsmtp')
+2024-11-24 23:59:36 - INFO - Good night folks!!!
+2024-11-25 00:01:29 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-25 00:01:30 - INFO - generating csv report ec2_report.csv
+2024-11-25 00:01:30 - INFO - uploading report to s3
+2024-11-25 00:01:31 - ERROR - An error occurred: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-724faae0e22sm3137752b3a.97 - gsmtp')
+2024-11-25 00:01:31 - INFO - Good night folks!!!
+2024-11-25 00:03:42 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-25 00:03:42 - INFO - generating csv report ec2_report.csv
+2024-11-25 00:03:42 - INFO - uploading report to s3
+2024-11-25 00:03:43 - ERROR - An error occurred: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d2e1a72fcca58-724de57a53asm5792597b3a.198 - gsmtp')
+2024-11-25 00:03:43 - INFO - Good night folks!!!
+2024-11-25 00:26:25 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-25 00:26:25 - INFO - generating csv report ec2_report.csv
+2024-11-25 00:26:25 - INFO - uploading report to s3
+2024-11-25 00:26:26 - ERROR - An error occurred: Connection unexpectedly closed
+2024-11-25 00:26:26 - INFO - Good night folks!!!
+2024-11-25 09:12:17 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-25 09:12:18 - INFO - generating csv report ec2_report.csv
+2024-11-25 09:12:18 - INFO - uploading report to s3
+2024-11-25 09:12:18 - ERROR - An error occurred: (530, b'5.7.0 Authentication Required. For more information, go to\n5.7.0  https://support.google.com/mail/?p=WantAuthError d2e1a72fcca58-724eb65d2adsm5588616b3a.159 - gsmtp', 'joebachou@gmail.com')
+2024-11-25 09:12:18 - INFO - Good night folks!!!
+2024-11-25 09:27:17 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-25 09:27:17 - INFO - generating csv report ec2_report.csv
+2024-11-25 09:27:17 - INFO - uploading report to s3
+2024-11-25 09:27:18 - ERROR - An error occurred: (530, b'5.7.0 Authentication Required. For more information, go to\n5.7.0  https://support.google.com/mail/?p=WantAuthError d9443c01a7336-2129db87dc9sm67756705ad.7 - gsmtp', 'joebachou@gmail.com')
+2024-11-25 09:27:18 - INFO - Good night folks!!!
+2024-11-25 09:36:27 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-25 09:36:27 - INFO - generating csv report ec2_report.csv
+2024-11-25 09:36:27 - INFO - uploading report to s3
+2024-11-25 09:36:29 - INFO - Email sent successfully!
+2024-11-25 09:36:29 - INFO - Good night folks!!!
+2024-11-25 09:47:44 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-25 09:51:48 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-25 09:58:44 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-25 10:00:24 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-25 10:14:46 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-25 10:19:40 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-25 11:33:50 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-25 11:33:51 - INFO - generating csv report ec2_report.csv
+2024-11-25 11:33:51 - INFO - uploading report to s3
+2024-11-25 11:33:53 - INFO - Email sent successfully!
+2024-11-25 11:33:53 - INFO - Thank you for using this application!!!
+2024-11-25 11:38:44 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-25 11:38:44 - INFO - generating csv report ec2_report.csv
+2024-11-25 11:38:44 - INFO - uploading report to s3
+2024-11-25 11:38:46 - INFO - Email sent successfully!
+2024-11-25 11:38:46 - INFO - Thank you for using this application!!!
+2024-11-26 21:00:51 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-26 21:00:51 - INFO - Successfully generated csv report as joe_ec2_report.csv
+2024-11-26 21:00:51 - INFO - joe_ec2_report.csv successfully uploaded to python-ec2-report-generator-bucket1
+2024-11-26 21:00:52 - ERROR - Error sending email: An error occurred (BadRequestException) when calling the SendEmail operation: Missing '<'
+2024-11-26 21:00:52 - INFO - End of the log! 
+************************************************************
+2024-11-26 21:06:11 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-26 21:06:12 - INFO - Successfully generated csv report as joe_ec2_report.csv
+2024-11-26 21:06:12 - INFO - joe_ec2_report.csv successfully uploaded to python-ec2-report-generator-bucket1
+2024-11-26 21:06:13 - ERROR - Error sending email: An error occurred (BadRequestException) when calling the SendEmail operation: Missing '<'
+2024-11-26 21:06:13 - INFO - End of the log! 
+************************************************************
+2024-11-26 21:08:00 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-26 21:08:01 - INFO - Successfully generated csv report as joe_ec2_report.csv
+2024-11-26 21:08:01 - INFO - joe_ec2_report.csv successfully uploaded to python-ec2-report-generator-bucket1
+2024-11-26 21:08:02 - ERROR - Error sending email: An error occurred (BadRequestException) when calling the SendEmail operation: Missing '<'
+2024-11-26 21:08:02 - INFO - End of the log! 
+************************************************************
+2024-11-26 21:13:57 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-26 21:13:58 - INFO - Successfully generated csv report as joe_ec2_report.csv
+2024-11-26 21:13:58 - INFO - joe_ec2_report.csv successfully uploaded to python-ec2-report-generator-bucket1
+2024-11-26 21:13:58 - ERROR - Error sending email: An error occurred (BadRequestException) when calling the SendEmail operation: Missing '<'
+2024-11-26 21:13:58 - INFO - End of the log! 
+************************************************************
+2024-11-26 21:19:25 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-26 21:19:26 - INFO - Successfully generated csv report as joe_ec2_report.csv
+2024-11-26 21:19:26 - INFO - joe_ec2_report.csv successfully uploaded to python-ec2-report-generator-bucket1
+2024-11-26 21:19:27 - ERROR - Error sending email: An error occurred (BadRequestException) when calling the SendEmail operation: Missing '<'
+2024-11-26 21:19:27 - INFO - End of the log! 
+************************************************************
+2024-11-26 21:21:29 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-26 21:21:30 - INFO - Successfully generated csv report as joe_ec2_report.csv
+2024-11-26 21:21:30 - INFO - joe_ec2_report.csv successfully uploaded to python-ec2-report-generator-bucket1
+2024-11-26 21:21:31 - ERROR - Error sending email: An error occurred (BadRequestException) when calling the SendEmail operation: Missing '<'
+2024-11-26 21:21:31 - INFO - End of the log! 
+************************************************************
+2024-11-26 21:23:53 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-26 21:23:53 - INFO - Successfully generated csv report as joe_ec2_report.csv
+2024-11-26 21:23:53 - INFO - joe_ec2_report.csv successfully uploaded to python-ec2-report-generator-bucket1
+2024-11-26 21:28:21 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-26 21:28:21 - INFO - Successfully generated csv report as joe_ec2_report.csv
+2024-11-26 21:28:21 - INFO - joe_ec2_report.csv successfully uploaded to python-ec2-report-generator-bucket1
+2024-11-26 21:28:22 - ERROR - Error sending email: An error occurred (BadRequestException) when calling the SendEmail operation: Missing '<'
+2024-11-26 21:28:22 - INFO - End of the log! 
+************************************************************
+2024-11-26 21:30:08 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-26 21:30:08 - INFO - Successfully generated csv report as joe_ec2_report.csv
+2024-11-26 21:30:08 - INFO - joe_ec2_report.csv successfully uploaded to python-ec2-report-generator-bucket1
+2024-11-26 21:30:09 - ERROR - Error sending email: An error occurred (BadRequestException) when calling the SendEmail operation: Missing '<'
+2024-11-26 21:30:09 - INFO - End of the log! 
+************************************************************
+2024-11-26 21:32:31 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-26 21:32:32 - INFO - Successfully generated csv report as joe_ec2_report.csv
+2024-11-26 21:32:32 - INFO - joe_ec2_report.csv successfully uploaded to python-ec2-report-generator-bucket1
+2024-11-26 21:32:33 - ERROR - Error sending email: An error occurred (BadRequestException) when calling the SendEmail operation: Missing '<'
+2024-11-26 21:32:33 - INFO - End of the log! 
+************************************************************
+2024-11-26 21:33:34 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-26 21:33:35 - INFO - Successfully generated csv report as joe_ec2_report.csv
+2024-11-26 21:33:35 - INFO - joe_ec2_report.csv successfully uploaded to python-ec2-report-generator-bucket1
+2024-11-26 21:33:36 - ERROR - Error sending email: An error occurred (BadRequestException) when calling the SendEmail operation: Missing '<'
+2024-11-26 21:33:36 - INFO - End of the log! 
+************************************************************
+2024-11-26 21:35:23 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-26 21:35:24 - INFO - Successfully generated csv report as joe_ec2_report.csv
+2024-11-26 21:35:24 - INFO - joe_ec2_report.csv successfully uploaded to python-ec2-report-generator-bucket1
+2024-11-26 21:39:08 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-26 21:39:08 - INFO - Successfully generated csv report as joe_ec2_report.csv
+2024-11-26 21:39:08 - INFO - joe_ec2_report.csv successfully uploaded to python-ec2-report-generator-bucket1
+2024-11-26 21:41:52 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-26 21:41:53 - INFO - Successfully generated csv report as joe_ec2_report.csv
+2024-11-26 21:41:53 - INFO - joe_ec2_report.csv successfully uploaded to python-ec2-report-generator-bucket1
+2024-11-26 21:41:54 - ERROR - Error sending email: An error occurred (BadRequestException) when calling the SendEmail operation: Missing '<'
+2024-11-26 21:41:54 - INFO - End of the log! 
+********************************************************************************
+2024-11-26 21:43:28 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-26 21:43:30 - INFO - Successfully generated csv report as joe_ec2_report.csv
+2024-11-26 21:43:30 - INFO - joe_ec2_report.csv successfully uploaded to python-ec2-report-generator-bucket1
+2024-11-26 21:43:31 - ERROR - Error sending email: An error occurred (BadRequestException) when calling the SendEmail operation: Missing '<'
+2024-11-26 21:43:31 - INFO - End of the log! 
+********************************************************************************
+2024-11-26 22:17:27 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-26 22:17:29 - INFO - Successfully generated csv report as joe_ec2_report.csv
+2024-11-26 22:17:29 - INFO - joe_ec2_report.csv successfully uploaded to python-ec2-report-generator-bucket1
+2024-11-26 22:17:30 - ERROR - Error sending email: An error occurred (BadRequestException) when calling the SendEmail operation: Missing '<'
+2024-11-26 22:17:30 - INFO - End of the log! 
+********************************************************************************
+2024-11-26 22:22:38 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-26 22:22:39 - INFO - Successfully listed EC2 instances: 2
+2024-11-26 22:22:39 - INFO - Successfully generated CSV report: joe_ec2_report.csv
+2024-11-26 22:22:40 - INFO - joe_ec2_report.csv successfully uploaded to S3 bucket python-ec2-report-generator-bucket1
+2024-11-26 22:22:41 - ERROR - Error sending email: An error occurred (BadRequestException) when calling the SendEmail operation: Missing '<'
+2024-11-26 22:22:41 - INFO - End of script execution.
+2024-11-26 22:22:41 - INFO - End of the log! 
+********************************************************************************
+2024-11-26 22:30:02 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-26 22:30:02 - INFO - Successfully listed EC2 instances: 2
+2024-11-26 22:30:02 - INFO - Successfully generated CSV report: joe_ec2_report.csv
+2024-11-26 22:30:03 - INFO - joe_ec2_report.csv successfully uploaded to S3 bucket python-ec2-report-generator-bucket1
+2024-11-26 22:30:03 - ERROR - Error sending email: An error occurred (BadRequestException) when calling the SendEmail operation: Missing '<'
+2024-11-26 22:30:03 - INFO - End of script execution.
+2024-11-26 22:30:03 - INFO - End of the log! 
+********************************************************************************
+2024-11-26 22:32:23 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-26 22:32:24 - INFO - Successfully listed EC2 instances: 2
+2024-11-26 22:32:24 - INFO - Successfully generated CSV report: joe_ec2_report.csv
+2024-11-26 22:32:25 - INFO - joe_ec2_report.csv successfully uploaded to S3 bucket python-ec2-report-generator-bucket1
+2024-11-26 22:32:25 - ERROR - Error sending email: Parameter validation failed:
+Missing required parameter in input: "Source"
+Missing required parameter in input: "Message"
+Unknown parameter in input: "FromEmailAddress", must be one of: Source, Destination, Message, ReplyToAddresses, ReturnPath, SourceArn, ReturnPathArn, Tags, ConfigurationSetName
+Unknown parameter in input: "Content", must be one of: Source, Destination, Message, ReplyToAddresses, ReturnPath, SourceArn, ReturnPathArn, Tags, ConfigurationSetName
+2024-11-26 22:32:25 - INFO - End of script execution.
+2024-11-26 22:32:25 - INFO - End of the log! 
+********************************************************************************

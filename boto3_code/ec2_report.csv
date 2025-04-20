@@ -1,0 +1,3 @@
+instance_name,instance_type,image_id,state
+python-1,t2.micro,ami-061dd8b45bc7deb3d,running
+python-2,t2.micro,ami-061dd8b45bc7deb3d,running

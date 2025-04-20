@@ -80,3 +80,16 @@ elif (num >= 1 and num <= 100) and (num % 2 == 1):
 else:
     print(f"The number {num} is not an integer include in the range. Please enter a number of the range.")
 ###########################################################################    
+num = int(input("Please enter a number between 1 and 100: ")) #global scope
+
+def odd_even_number(num):
+
+    if (num >= 1 and num <= 100) and (num % 2 == 0):
+       print(f"The number {num} is even.") 
+    elif (num >= 1 and num <= 100) and (num % 2 == 1):   
+       print(f"The number {num} is odd.") 
+    else:
+       print(f"The number {num} is not an integer include in the range. Please enter a number of the range.")
+
+#num = int(input("Please enter a number between 1 and 100: ")) # local scope
+odd_even_number(num)

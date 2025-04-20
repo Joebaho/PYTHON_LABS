@@ -1,84 +1,122 @@
-'''
-PYTHON LAB: french_english_translator.py
+import logging
+from datetime import datetime
 
-- Create an English to french and French to english translator program. Use function to complete this program
-- The programs takes a word from the user as an input and translates it using a dictionary data type as a vocabulary word.
-- Please add the translation of "prune" in your homework.
-- If the word is not in the French code, print "[word]" is not in memory)
-***The user will select the language that he/she would like to translate to*** (optional)
-'''
+# Configure logging
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    filename='translator.log',
+    filemode='a'
+)
+
 def english_french(word):
+    """Translate English to French with logging"""
     vocabulary = {
         "hello": "bonjour",
         "goodbye": "au revoir",
         "apple": "pomme",
         "banana": "banane",
         "prune": "cerise",
-        "cloud" :"nuage",
-        "space" : "espace",
-        "dog" : "chien",
-        "hand" : "main",
-        "word" : "mot",
-        "enter" : "entrer",
-        "distance" : "distance",
-        "first" : "premier",
-        "person" : "personne",
+        "cloud": "nuage",
+        "space": "espace",
+        "dog": "chien",
+        "hand": "main",
+        "word": "mot",
+        "enter": "entrer",
+        "distance": "distance",
+        "first": "premier",
+        "person": "personne",
         "grape": "raisin",
         "orange": "orange",
         "pear": "poire",
         "peach": "pêche"
     }
+    
+    logging.info(f"Attempting English->French translation for: '{word}'")
+    
     if word in vocabulary:
-        return vocabulary.get(word)
+        translation = vocabulary.get(word)
+        logging.info(f"Successful translation: '{word}' -> '{translation}'")
+        return translation
     else:
-        return f"Sorry '{word}' is not in memory now. Let try another word."
+        error_msg = f"'{word}' not in memory"
+        logging.warning(error_msg)
+        return f"Sorry {error_msg}. Try another word."
 
 def french_english(word):
+    """Translate French to English with logging"""
     vocabulary = {
         "bonjour": "hello",
         "au revoir": "goodbye",
         "pomme": "apple",
         "banane": "banana",
         "cerise": "prune",
-        "nuage" :"cloud",
-        "espace" : "space",
-        "chien" : "dog",
-        "main" : "hand",
-        "mot" : "word",
-        "entrer" : "enter",
-        "distance" : "distance",
-        "premier" : "first",
-        "personne" : "person",
+        "nuage": "cloud",
+        "espace": "space",
+        "chien": "dog",
+        "main": "hand",
+        "mot": "word",
+        "entrer": "enter",
+        "distance": "distance",
+        "premier": "first",
+        "personne": "person",
         "raisin": "grape",
         "orange": "orange",
         "poire": "pear",
         "pêche": "peach"
     }
+    
+    logging.info(f"Attempting French->English translation for: '{word}'")
+    
     if word in vocabulary:
-        return vocabulary.get(word)
+        translation = vocabulary.get(word)
+        logging.info(f"Successful translation: '{word}' -> '{translation}'")
+        return translation
     else:
-        return f"Sorry '{word}' is not in memory now. Let try another word."
+        error_msg = f"'{word}' not in memory"
+        logging.warning(error_msg)
+        return f"Sorry {error_msg}. Try another word."
 
 def main():
-    print("Welcome to the both English and French Translator!")
-    language = input("Select the language (English/French): ").capitalize()
-
-    if language == "English":
-        word = input('Please enter the French word to be translate in English:  ')
-        translation = french_english(word.lower())
-        #print(f"The English translation of '{word}' is : {translation}")
+    """Main program execution with logging"""
+    logging.info("=== Translator application started ===")
+    print("Welcome to the English-French Translator!")
+    
+    try:
+        language = input("Select language (English/French): ").capitalize()
+        logging.info(f"User selected language: {language}")
+        
+        if language == "English":
+            word = input('Enter French word to translate to English: ').lower()
+            logging.debug(f"User input word: {word}")
+            translation = french_english(word)
+            
+        elif language == "French":
+            word = input('Enter English word to translate to French: ').lower()
+            logging.debug(f"User input word: {word}")
+            translation = english_french(word)
+            
+        else:
+            error_msg = "Invalid language selection"
+            logging.error(error_msg)
+            print(f"Error: {error_msg}. Please choose English or French.")
+            return
+            
         print(translation)
-        print("Thank you for using our Translator App! Feel free to come back!")
-           
-    elif language == "French":
-        word = input('Please enter the English word to be translate in French:  ')
-        translation = english_french(word.lower())
-        #print(f"The French translation of '{word}' is : {translation}")
-        print(translation)
-        print("Thank you for using our Translator App! Feel free to come back!")
-    else:
-        print("Invalid language selection. Please choose between English or French")
-        print("Thank you for using our Translator App! Feel free to come back!")
+        logging.info("Translation displayed successfully")
+        
+    except Exception as e:
+        logging.error(f"Unexpected error: {str(e)}", exc_info=True)
+        print("An error occurred. Please check the logs.")
+        
+    finally:
+        logging.info("=== Translator session ended ===\n")
+        print("Thank you for using our Translator App!")
 
 if __name__ == "__main__":
     main()
+
+
+
+
+
